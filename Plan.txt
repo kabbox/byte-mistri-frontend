@@ -1,4 +1,9 @@
---> Adding Service Page //Done
-        -> Will be Add All Services In the list With HTML
---> Shop Page
+--> Adding Service page
+    -> Page Created //Done
+    -> Header & Footer Design // Done
+    -> Designing Body Part //30% Complete
+--> Adding  Shop Page
+    --> Page Created // Done
+    --> Header & Footer Design
+    --> Design Body Part 
 --> Payment Intergation
