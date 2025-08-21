@@ -415,6 +415,28 @@ textarea:focus {
   color: #fff;
 }
 
+/* Service Page Design Here */
+.services-card{
+  min-height: 45vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
 /* Responsive */
 @media (max-width: 1000px) {
   .grid-hero {
